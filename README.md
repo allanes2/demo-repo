@@ -1,3 +1,3 @@
 # Demo
 
-GitHub Training
+GitHub Training!
